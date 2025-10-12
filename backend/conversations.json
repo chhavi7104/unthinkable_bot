@@ -1,0 +1,128 @@
+{
+  "sessions": {
+    "37889139-d2a4-4dc9-af8d-612ef5b191f7": {
+      "created_at": "2025-10-12T06:39:42.528561",
+      "status": "escalated",
+      "updated_at": "2025-10-12T06:58:28.509878"
+    },
+    "83a6d03a-7ea5-4415-934f-5ba8c5785e2b": {
+      "created_at": "2025-10-12T06:53:52.273244",
+      "status": "escalated",
+      "updated_at": "2025-10-12T06:54:06.518953"
+    },
+    "9de9fd15-032a-48e4-88d6-e06e61285880": {
+      "created_at": "2025-10-12T07:01:29.359705",
+      "status": "escalated",
+      "updated_at": "2025-10-12T07:01:29.984585"
+    },
+    "dcdc5955-bb2f-47c0-a2da-ad0a8e6deeb4": {
+      "created_at": "2025-10-12T07:05:12.659879",
+      "status": "active"
+    },
+    "6e5ec47a-9185-4985-81c1-6856ad09f137": {
+      "created_at": "2025-10-12T07:20:15.331071",
+      "status": "active"
+    },
+    "0b4c94e5-7d63-4f83-a438-8f925cc85b68": {
+      "created_at": "2025-10-12T07:21:06.881129",
+      "status": "active"
+    }
+  },
+  "messages": {
+    "37889139-d2a4-4dc9-af8d-612ef5b191f7": [
+      {
+        "message": "How do I cancel my subscription?",
+        "is_user": true,
+        "timestamp": "2025-10-12T06:40:08.740216",
+        "requires_escalation": false
+      },
+      {
+        "message": "I apologize, but I'm having trouble processing your request at the moment. Please try again in a few moments.",
+        "is_user": false,
+        "timestamp": "2025-10-12T06:40:08.921553",
+        "requires_escalation": true
+      },
+      {
+        "message": "how do i cancel my subscription?",
+        "is_user": true,
+        "timestamp": "2025-10-12T06:58:27.924627",
+        "requires_escalation": false
+      },
+      {
+        "message": "I'd be happy to help you with that! For detailed assistance, please contact our support team at support@company.com.",
+        "is_user": false,
+        "timestamp": "2025-10-12T06:58:28.479622",
+        "requires_escalation": true
+      }
+    ],
+    "83a6d03a-7ea5-4415-934f-5ba8c5785e2b": [
+      {
+        "message": "How do I cancel my subscription?",
+        "is_user": true,
+        "timestamp": "2025-10-12T06:54:05.315841",
+        "requires_escalation": false
+      },
+      {
+        "message": "I'd be happy to help you with that! For detailed assistance, please contact our support team at support@company.com.",
+        "is_user": false,
+        "timestamp": "2025-10-12T06:54:06.511734",
+        "requires_escalation": true
+      },
+      {
+        "message": "What are your business hours?",
+        "is_user": true,
+        "timestamp": "2025-10-12T06:54:24.410806",
+        "requires_escalation": false
+      },
+      {
+        "message": "I'd be happy to help you with that! For detailed assistance, please contact our support team at support@company.com.",
+        "is_user": false,
+        "timestamp": "2025-10-12T06:54:24.657066",
+        "requires_escalation": false
+      }
+    ],
+    "9de9fd15-032a-48e4-88d6-e06e61285880": [
+      {
+        "message": "How do I cancel my subscription?",
+        "is_user": true,
+        "timestamp": "2025-10-12T07:01:29.394287",
+        "requires_escalation": false
+      },
+      {
+        "message": "You can cancel your subscription from the 'Billing' section in your account settings. Cancellations take effect at the end of your billing cycle.",
+        "is_user": false,
+        "timestamp": "2025-10-12T07:01:29.971544",
+        "requires_escalation": true
+      }
+    ],
+    "dcdc5955-bb2f-47c0-a2da-ad0a8e6deeb4": [],
+    "6e5ec47a-9185-4985-81c1-6856ad09f137": [
+      {
+        "message": "How do I cancel my subscription?",
+        "is_user": true,
+        "timestamp": "2025-10-12T07:20:15.362552",
+        "requires_escalation": false
+      },
+      {
+        "message": "You can cancel your subscription from the 'Billing' section in your account settings. Cancellations take effect at the end of your billing cycle.",
+        "is_user": false,
+        "timestamp": "2025-10-12T07:20:15.383369",
+        "requires_escalation": false
+      }
+    ],
+    "0b4c94e5-7d63-4f83-a438-8f925cc85b68": [
+      {
+        "message": "how do i cancel my subscription?",
+        "is_user": true,
+        "timestamp": "2025-10-12T07:21:55.569669",
+        "requires_escalation": false
+      },
+      {
+        "message": "You can cancel your subscription from the 'Billing' section in your account settings. Cancellations take effect at the end of your billing cycle.",
+        "is_user": false,
+        "timestamp": "2025-10-12T07:21:55.596898",
+        "requires_escalation": false
+      }
+    ]
+  }
+}
