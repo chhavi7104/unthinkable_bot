@@ -16,7 +16,7 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
 ### Prerequisites
 - Python 3.8+
 - Node.js 16+
-- OpenAI API key
+- Gemini API key
 
 ### Backend Setup
 1. Navigate to backend directory:
@@ -27,7 +27,8 @@ cd backend
 
 ## Demo Video
 
-https://github.com/chhavi7104/unthinkable_bot/blob/main/media/demo.mp4
+https://github.com/chhavi7104/unthinkable_bot/blob/main/media/unthinkable.mp4
 
 <!-- Or as a direct link -->
-![Demo Video]()
+![Demo Video](https://github.com/chhavi7104/unthinkable_bot.git/unthinkable.mp4)
+
