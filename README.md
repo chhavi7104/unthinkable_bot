@@ -20,8 +20,8 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
 
 ### Backend Setup
 1. Navigate to backend directory:
-```bash
-cd backend
+   ```bash
+   cd backend
 
 # AI Customer Support Bot
 
@@ -31,4 +31,5 @@ https://github.com/chhavi7104/unthinkable_bot/blob/main/media/unthinkable.mp4
 
 <!-- Or as a direct link -->
 ![Demo Video](https://github.com/chhavi7104/unthinkable_bot.git/unthinkable.mp4)
+
 
