@@ -27,9 +27,7 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
 
 ## Demo Video
 
-https://github.com/chhavi7104/unthinkable_bot/blob/main/media/unthinkable.mp4
+![Demo Video](https://github.com/chhavi7104/unthinkable_bot/blob/main/unthinkable.mp4)
 
-<!-- Or as a direct link -->
-![Demo Video](https://github.com/chhavi7104/unthinkable_bot.git/unthinkable.mp4)
 
 
