@@ -26,11 +26,12 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
 # AI Customer Support Bot
 
 ## Demo Video 
-<a href="./unthinkable.mp4" style="color: black; text-decoration: none;">
+<a href="./unthinkable.mp4" style="color: black; text-decoration: none !important ;">
   🎥 Watch Demo Video
 </a>
 
 ![Autoplaying Demo](./unthinkable-ezgif.com-optimize.gif)
+
 
 
 
