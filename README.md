@@ -30,7 +30,10 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
   🎥 Watch Demo Video
 </a>
 
+
+
 ![Autoplaying Demo](./unthinkable-ezgif.com-optimize.gif)
+
 
 
 
