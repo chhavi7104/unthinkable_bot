@@ -15,7 +15,7 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
 ### Prerequisites
 - Python 3.8+
 - Node.js 16+
-- Gemini API key
+- Gemini API key 
 
 ### Backend Setup
 1. Navigate to backend directory:
@@ -32,6 +32,7 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
 
 
 ![Autoplaying Demo](./unthinkable-ezgif.com-optimize.gif)
+
 
 
 
