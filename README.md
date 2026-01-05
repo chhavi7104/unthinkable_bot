@@ -1,7 +1,6 @@
 # AI Customer Support Bot
 A sophisticated customer support chatbot with FAQ handling, contextual memory, and escalation capabilities.
 
- 
 ## Features
 
 - 🤖 AI-powered responses using OpenAI GPT
@@ -33,6 +32,7 @@ A sophisticated customer support chatbot with FAQ handling, contextual memory, a
 
 
 ![Autoplaying Demo](./unthinkable-ezgif.com-optimize.gif)
+
 
 
 
