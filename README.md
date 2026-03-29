@@ -1,5 +1,4 @@
 # AI Customer Support Bot
-
 A sophisticated customer support chatbot with FAQ handling, contextual memory, and escalation capabilities.
 
 ## Features
